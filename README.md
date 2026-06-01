@@ -43,6 +43,8 @@ The dataset contains approximately **436K global job postings** including:
 * Insurance Benefits
 * Company Ratings
 
+(Note: Dataset files are not included due to size constraints.)
+
 ---
 
 ## 🏗️ Data Model
